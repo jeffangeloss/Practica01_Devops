@@ -1,0 +1,17 @@
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\BancoBackendApplication.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\config\JpaConfig.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\config\MapperConfig.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\config\MessageConfig.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\controller\ClienteController.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\dto\ClienteDTO.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\exception\CustomErrorResponse.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\exception\GlobalErrorHandler.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\exception\ModelNotFoundException.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\model\Cliente.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\repo\IClienteRepo.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\repo\impl\ClienteRepoImpl.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\repo\IPostgreRepo.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\service\IClienteService.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\service\ICRUDService.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\service\impl\ClienteServiceImpl.java
+C:\Users\hwong\Downloads\RepositorioDec-DevOps-main\1_Dev\Practica01_DevOps\banco-backend\src\main\java\com\hwongu\service\impl\CRUDImpl.java
